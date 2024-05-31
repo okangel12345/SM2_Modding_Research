@@ -1,2 +1,2 @@
-# SM2_Modding_Research
+# SM2 Modding Research
 Research for SM2 modding.
