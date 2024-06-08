@@ -11,3 +11,6 @@ This is a compilation of reliable links to software and guides that are normally
 - .dds plugin for Photoshop: [Intel Texture Works Plugin for Photoshop](https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html)
 - HxD Editor - Change formats, modify files, etc: https://mh-nexus.de/en/hxd/
 - Rawtex - Convert .texture to .dds
+
+# Guides
+Custom textures (WIP):
